@@ -1,5 +1,5 @@
 # db-email
-Experiment to compare the time execution of sending emails with and without applying concurrency programming in Go. Stable internet connection is required to run this project.
+Experiment to compare the time execution of sending emails without and with applying concurrency in Go. Stable internet connection is required to run this project.
 
 ## Stacks
 - [Go](https://go.dev/)
